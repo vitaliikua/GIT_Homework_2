@@ -1,0 +1,14 @@
+Checklist structure
+
+Title or name of the checklist
+"#"     "What to check/test"                            "Platform"                      "Notes/Bug ID/Bug title/Link to the bug"
+                                                        Google Chrome   Mozilla Firefox
+1       Home page
+1.1     Design Integration (compare mockup and site)    Passed          Passed      
+1.2     Site logo
+a       Check the logo image availability               Passed          Passed
+b       Check the logo image is clickable               Passed          Passed
+1.3     Navigation Menu:
+a       Check styling                                   Not run         Not run
+b       Category images                                 Failed          Failed          br000123
+
